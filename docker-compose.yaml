@@ -1,7 +1,7 @@
 version: '2'
 services:
   dashing:
-    image: mosque_dashing
+    image: dashing_mosque
     ports:
      - "3030:3030"
     restart: always
