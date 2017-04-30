@@ -6,8 +6,11 @@ Check out the license terms in LICENSE for usage guidelines.
 
 For more information or if you'd like to ask any questions, feel free to email us at software@macrec.to
 
+
 Original Project:
 
 Dashing (Shopify) - https://github.com/Shopify/dashing
+
 Smashing - https://github.com/Smashing/smashing
+
 Fredrik Vihlborg's Docker Image - https://github.com/frvi/dockerfile-dashing
